@@ -5,6 +5,6 @@
 anemone plugin is used in this tutorial  
 You should install anemone [here](https://www.food4rhino.com/en/app/anemone) before download.
   
-I explain about this tutorial in this article.   
+I explain about this tutorial in [this article](https://styublog.com/rubiks-cube/).   
 But this article is written in Japanese.
 
